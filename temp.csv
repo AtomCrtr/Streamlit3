@@ -1,0 +1,3 @@
+name,password,email,failed_login_attempts,logged_in,role
+user1,pass1,user1@example.com,0,False,user
+PipouPaul,pipou,user2@example.com,0,False,admin
